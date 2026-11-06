@@ -1,0 +1,9 @@
+{
+  "name": "thumbnail-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "High-CTR YouTube thumbnail compositor for eL Utama, paired with a Google Flow custom tool.",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
